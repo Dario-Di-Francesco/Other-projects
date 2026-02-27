@@ -32,5 +32,3 @@ Planned improvements:
 - [ ] Add an index table with: topic, tools, language, and main takeaways
 
 ---
-
-## Suggested folder structure (will evolve)
