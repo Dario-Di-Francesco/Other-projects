@@ -1,4 +1,4 @@
-# oTHER PROJECT
+# OTHER PROJECT
 
 This repository is a **work-in-progress archive** where I collect **technical reports** I wrote for university/projects and personal work.
 
